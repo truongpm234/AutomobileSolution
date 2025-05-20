@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This project is a WPF application for managing automobiles, developed using .NET Core and C#. The application supports basic CRUD operations (Create, Read, Update, Delete) on car data including CarID, CarName, Manufacturer, Price, and ReleasedYear. Data persistence is handled via a SQL Server database using Entity Framework Core.
+####This project is a WPF application for managing automobiles, developed using .NET Core and C#. The application supports basic CRUD operations (Create, Read, Update, Delete) on car data including CarID, CarName, Manufacturer, Price, and ReleasedYear. Data persistence is handled via a SQL Server database using Entity Framework Core.
 ---
 
 ## Features
