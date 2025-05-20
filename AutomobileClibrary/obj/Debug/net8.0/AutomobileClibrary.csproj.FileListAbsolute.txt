@@ -1,0 +1,14 @@
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\bin\Debug\net8.0\AutomobileClibrary.deps.json
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\bin\Debug\net8.0\AutomobileClibrary.runtimeconfig.json
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\bin\Debug\net8.0\AutomobileClibrary.dll
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\bin\Debug\net8.0\AutomobileClibrary.pdb
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.csproj.AssemblyReference.cache
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.AssemblyInfoInputs.cache
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.AssemblyInfo.cs
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.csproj.CoreCompileInputs.cache
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.dll
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\refint\AutomobileClibrary.dll
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.pdb
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\AutomobileClibrary.genruntimeconfig.cache
+E:\SE_SUMMER2025_S7\PRN222\source_study\AutomobileSolution\AutomobileSolution\AutomobileClibrary\obj\Debug\net8.0\ref\AutomobileClibrary.dll
