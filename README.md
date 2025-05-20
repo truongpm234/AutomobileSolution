@@ -48,4 +48,4 @@
 
 ### 📬 Contact
 
-##### For questions or feedback, please contact truongpm234 or Email: ghoul1645@gmail.com.
+##### For questions or feedback, please contact truongpm234 or [Email](ghoul1645@gmail.com).
