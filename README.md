@@ -1,11 +1,11 @@
 # Automobile Store Management Application
 
-## Introduction
+### Introduction
 
-####This project is a WPF application for managing automobiles, developed using .NET Core and C#. The application supports basic CRUD operations (Create, Read, Update, Delete) on car data including CarID, CarName, Manufacturer, Price, and ReleasedYear. Data persistence is handled via a SQL Server database using Entity Framework Core.
+##### This project is a WPF application for managing automobiles, developed using .NET Core and C#. The application supports basic CRUD operations (Create, Read, Update, Delete) on car data including CarID, CarName, Manufacturer, Price, and ReleasedYear. Data persistence is handled via a SQL Server database using Entity Framework Core.
 ---
 
-## Features
+### Features
 
 - Add new automobile entries.
 - View list of existing automobiles.
@@ -13,7 +13,7 @@
 - Remove automobiles from the database.
 ---
 
-## Technologies Used
+### Technologies Used
 
 - WPF (.NET Core)
 - C#
@@ -24,7 +24,7 @@
 - Dependency Injection
 ---
 
-## Prerequisites
+### Prerequisites
 
 - Visual Studio 2019 or later with .NET Core support
 - SQL Server (Express or full version)
@@ -39,14 +39,14 @@
 4. Build and run the WPF application.
 ---
 
-## Project Structure
+### Project Structure
 
 - **AutomobileStore.WPF**: WPF UI project.
 - **AutomobileStore.DataAccess: Class library containing DbContext, Car model class and services interact with database.
 - **AutomobileStore.Repositories**: Contains Repository classes implementing CRUD logic.
 ---
 
-## Contact
+### Contact
 
 For questions or feedback, please contact truongpm234 at ghoul1645@gmail.com.
 
